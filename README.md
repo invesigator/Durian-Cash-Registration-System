@@ -29,6 +29,35 @@ This is a console-based C++ application designed to help JKJT Durian Stall in Ka
 ## 🖥️ How to Run the Program
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/durian-registration-system.git
-   cd durian-registration-system
+   git clone https://github.com/invesigator/Durian-Cash-Registration-System.git
+   cd Durian-Cash-Registration-System
    ```
+2. Open the project in Visual Studio 2019.
+3. Build and run the project.
+
+
+## 🧪 Screenshots
+![image](https://github.com/user-attachments/assets/c2ef7dbc-a2bd-42ec-b21a-10bf61edd35d)
+![image](https://github.com/user-attachments/assets/7bf3687c-bcc4-49ce-a803-6516a21cb98d)
+![image](https://github.com/user-attachments/assets/c96d009e-2114-40e1-9ae0-b785920b8f58)
+
+
+
+## 📁 File Structure
+```
+📂 JKJT Durian Stall Cash Registration System
+├── durian.txt         # Menu file
+├── transaction.txt    # Transaction history
+├── main.cpp           # Program source
+```
+
+## 🎓 Learning Outcomes
+- Applied modular programming principles in C++
+- Practiced file I/O for persistent data handling
+- Designed user-friendly CLI menus and submenus
+- Developed logical filtering engines for data retrieval
+
+
+## 🛡️ Academic Integrity
+This project was created strictly for learning and demonstration purposes.
+Do not copy this code for any academic submissions.
